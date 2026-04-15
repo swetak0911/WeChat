@@ -1,7 +1,5 @@
 # Chatify — Real-Time Full-Stack Chat Application
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 WEChat is a real-time messaging application I built to practice and demonstrate full-stack product development: authentication, socket communication, media handling, and production-style integrations like email, rate-limiting, and cloud storage.
 
 ---
